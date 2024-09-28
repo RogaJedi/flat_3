@@ -19,6 +19,7 @@
 ![alt_text](https://github.com/RogaJedi/flat_3/blob/flat_4/emptyp.png)
 
 Страница добавления позиции и  результат:
+
 ![alt_text](https://github.com/RogaJedi/flat_3/blob/flat_4/addp1.png)
 ![alt_text](https://github.com/RogaJedi/flat_3/blob/flat_4/addp2.png)
 
